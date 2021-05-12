@@ -8,7 +8,7 @@
 
 ## Redes Socias:
 
-![<img src="https://github.com/fransilva0/fransilva0/blob/main/twitter.png" />](https://twitter.com/Fran_Silva0)
+![<img src="https://raw.githubusercontent.com/fransilva0/fransilva0/main/twitter.png" />](https://twitter.com/Fran_Silva0)
 
 
 <!---
