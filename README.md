@@ -4,7 +4,9 @@
 ![foto de perfil](https://github.com/fransilva0/fransilva0/blob/main/Francileudo%20Oliveira.jpg)
 
 
-### - 🔍 Interessado em Python, Java, Data Science, entre outros...
+### - 🔍 Interessado em Python, Java, entre outros...
+
+
 
 
 ## Me acompanhe nas redes sociais:
