@@ -10,5 +10,4 @@
 ## Me acompanhe nas redes sociais:
 
 <a href="https://twitter.com/Fran_Silva0"><img src="https://img.icons8.com/nolan/50/twitter.png"/> </a>
-<a href="https://www.instagram.com/francileudo77"><img src="https://img.icons8.com/nolan/50/instagram-new.png"/></a>
 <a href="https://www.linkedin.com/in/francileudo-oliveira"><img src="https://img.icons8.com/nolan/50/linkedin.png"/></a>
