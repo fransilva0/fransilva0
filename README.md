@@ -4,7 +4,8 @@
 ![foto de perfil](https://github.com/fransilva0/fransilva0/blob/main/Francileudo%20Oliveira.jpg)
 
 
-### - 🔍 Interessado em Python, Java, entre outros...
+### - ❤  Apaixonado pela área de Tecnologia desde criança
+### - ✍ Aprendendo Desenvolvimento Web, Mobile e UX/UI Designer
 
 
 
