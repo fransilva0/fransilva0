@@ -1,8 +1,7 @@
 # Prazer, Francileudo! 👋
 
 ### 🎓 - Graduando em Bacharelado em Ciências da Computação na UEPB
-### 📚 - Estudando desenvolvimento web
-### :book: - Acredita que o futuro de qualquer país está na educação e qualidade.
+### 📚 - Estudando desenvolvimento web | HTML5 | CSS3
 
 ## Contato...
 
