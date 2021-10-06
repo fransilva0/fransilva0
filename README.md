@@ -24,6 +24,6 @@
 <a href="mailto:sfrancileudo1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="my gmail"></a>
 <a href="https://www.linkedin.com/in/francileudo-oliveira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="my linkedin"></a>
 
-<br>
+## Linguagens mais utilizadas...
 
 ![stats card](https://github-readme-stats.vercel.app/api/top-langs/?username=fransilva0&layout=demo&langs_count=8&theme=highcontrast&title_color=008b8b&text_color=44d9e6&hide_border=true&border_radius=2rem)
