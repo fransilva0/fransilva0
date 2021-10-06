@@ -3,6 +3,12 @@
 ### 🎓 - Graduando em Bacharelado em Ciências da Computação na UEPB
 ### 📚 - Estudando desenvolvimento web | HTML5 | CSS3 | JavaScript
 
+## Sobre Mim...
+
+####  Prazer, Francileudo! Tenho 18 anos e atualmente estou cursando Ciências da Computação pela UEPB. Residente em Patos, na Paraíba. Estudando HTML, CSS e JavaScript atualmente, mais especificamente em desenvolvimento web Front-End.
+
+#### Comecei a estudar programação em julho de 2021 e desde então venho estudando todos os dias, buscando aprender sempre um pouco mais na área e vibrando com os resultados que as horas dedicadas me trazem.
+
 ## Estudando...
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
