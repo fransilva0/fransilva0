@@ -9,7 +9,7 @@
 
 #### Comecei a estudar programação em julho de 2021 e desde então venho estudando todos os dias, buscando aprender sempre um pouco mais na área e vibrando com os resultados que as horas dedicadas me trazem.
 
-#### Portifólio: <a href="https://fransilva0.github.io/portifolio/" target='_blank'>💻 https://fransilva0.github.io/portifolio</a>
+#### Portifólio: <a href="https://fransilva0.github.io/portifolio/">💻 https://fransilva0.github.io/portifolio</a>
 
 
 ## Estudando...
