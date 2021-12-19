@@ -23,3 +23,4 @@
 ## Linguagens mais utilizadas...
 
 ![stats card](https://github-readme-stats.vercel.app/api/top-langs/?username=fransilva0&layout=demo&langs_count=8&theme=highcontrast&title_color=008b8b&text_color=44d9e6&hide_border=true&border_radius=2rem)
+
