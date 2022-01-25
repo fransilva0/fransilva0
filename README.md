@@ -2,10 +2,7 @@
 
 ### 🎓 - Graduando em Bacharelado em Ciências da Computação na UEPB
 ### 📚 - Estudando desenvolvimento web | HTML5 | CSS3 | JavaScript
-
-#### Comecei a estudar programação em julho de 2021 e desde então venho estudando todos os dias, buscando aprender sempre um pouco mais na área e vibrando com os resultados que as horas dedicadas me trazem.
-
-#### Portifólio: <a href="https://fransilva0.github.io/portfolio/">💻 https://fransilva0.github.io/portfolio/</a>
+### ✍ - Criador de Conteúdo
 
 
 ## Estudando...
@@ -14,6 +11,12 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![ReactJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+## Blog...
+#### <a href="https://projeto-developer.blogspot.com/2022/01/conversao-monetaria-em-javascript.html">https://projeto-developer.blogspot.com/2022/01/conversao-monetaria-em-javascript.html</a>
+#### <a href="https://projeto-developer.blogspot.com/2022/01/calculadora-de-combustivel-com.html">https://projeto-developer.blogspot.com/2022/01/calculadora-de-combustivel-com.html</a>
+#### <a href="https://projeto-developer.blogspot.com/2021/12/criando-tela-de-login-simples-com-html.html">https://projeto-developer.blogspot.com/2021/12/criando-tela-de-login-simples-com-html.html</a>
+
 
 ## Contato...
 
