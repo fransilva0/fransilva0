@@ -1,8 +1,6 @@
 # Prazer, Francileudo! 👋
 
-### 🎓 - Graduando em Bacharelado em Ciências da Computação na UEPB
-### 📚 - Estudando desenvolvimento web | HTML5 | CSS3 | JavaScript
-### ✍ - Criador de Conteúdo
+##### Comecei a me interessar pela área de tecnologia desde jovem, mas só em 2021 que realmente comecei a estudar a área, foi quando escolhi aprender sobre desenvolvimento Front-End. A escolha da área não foi por acaso, eu sempre me interessei em conhecer o mundo web mais profundamente e em como utilizar esse conhecimento para ajudar tanto pessoas físicas quanto empresas a darem vida a projetos importantes como deixar sua marca no mundo digital por meio de um site moderno e que passe uma boa mensagem para seus usuários. Para criar uma solução eu posso utilizar meus conhecimentos em HTML, CSS e JavaScript, estou no caminho para aprender mais sobre ReactJs entre outras tecnologias.
 
 
 ## Estudando...
@@ -12,15 +10,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![ReactJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-## Blog...
+## Publicações recentes no blog...
 #### <a href="https://projeto-developer.blogspot.com/2022/01/conversao-monetaria-em-javascript.html">https://projeto-developer.blogspot.com/2022/01/conversao-monetaria-em-javascript.html</a>
 #### <a href="https://projeto-developer.blogspot.com/2022/01/calculadora-de-combustivel-com.html">https://projeto-developer.blogspot.com/2022/01/calculadora-de-combustivel-com.html</a>
 #### <a href="https://projeto-developer.blogspot.com/2021/12/criando-tela-de-login-simples-com-html.html">https://projeto-developer.blogspot.com/2021/12/criando-tela-de-login-simples-com-html.html</a>
 
 
-## Contato...
+## Onde você pode me Encontrar...
 
-<a href="mailto:sfrancileudo1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="my gmail"></a>
 <a href="https://www.linkedin.com/in/francileudo-oliveira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="my linkedin"></a>
 
 ## Linguagens mais utilizadas...
