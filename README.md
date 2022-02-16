@@ -11,9 +11,9 @@
 ![ReactJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## Publicações recentes no blog...
-#### <a href="https://projeto-developer.blogspot.com/2022/01/conversao-monetaria-em-javascript.html">https://projeto-developer.blogspot.com/2022/01/conversao-monetaria-em-javascript.html</a>
-#### <a href="https://projeto-developer.blogspot.com/2022/01/calculadora-de-combustivel-com.html">https://projeto-developer.blogspot.com/2022/01/calculadora-de-combustivel-com.html</a>
-#### <a href="https://projeto-developer.blogspot.com/2021/12/criando-tela-de-login-simples-com-html.html">https://projeto-developer.blogspot.com/2021/12/criando-tela-de-login-simples-com-html.html</a>
+#### <a href="https://projeto-developer.blogspot.com/2022/02/html-basico-estrutura-inical-html.html">HTML Básico: Estrutura Inicial do HTML</a>
+#### <a href="https://projeto-developer.blogspot.com/2022/02/html-basico-historia-do-html.html">HTML Básico: História do HTML</a>
+#### <a href="https://projeto-developer.blogspot.com/2022/02/criando-um-cronometro-simples-com.html">Criando um Cronômetro Simples com JavaScript</a>
 
 
 ## Onde você pode me Encontrar...
