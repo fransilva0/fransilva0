@@ -1,7 +1,5 @@
 # Prazer, Francileudo! 👋
 
-#### Sou estudante do Curso de Bacharelado em Ciência da Computação pela UEPB, estudando linguagens de programação voltadas para o desenvolvimento web por conta própria, como JavaScript e ReactJs, por exemplo. Fundador do Projeto Developer, que é voltado para a disponibilização de conteúdo gratuito para a comunidade de desenvolvedores atualmente. 
-
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
