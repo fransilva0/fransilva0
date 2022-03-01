@@ -6,9 +6,8 @@
 ![ReactJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## Conteúdo recente do Projeto Developer...
-#### <a href="https://projeto-developer.blogspot.com/2022/02/html-basico-estrutura-inical-html.html">HTML Básico: Estrutura Inicial do HTML</a>
-#### <a href="https://projeto-developer.blogspot.com/2022/02/html-basico-historia-do-html.html">HTML Básico: História do HTML</a>
-#### <a href="https://projeto-developer.blogspot.com/2022/02/criando-um-cronometro-simples-com.html">Criando um Cronômetro Simples com JavaScript</a>
+#### <a href="https://projeto-developer.blogspot.com/search/label/html%20b%C3%A1sico">Minicurso | HTML BÁSICO</a>
+#### <a href="https://projeto-developer.blogspot.com/search/label/css%20b%C3%A1sico">Minicurso | CSS BÁSICO</a>
 
 
 ## Onde você pode me Encontrar...
