@@ -11,6 +11,10 @@
 ![ReactJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-## Onde você pode me Encontrar...
+## Linguagens mais utilizadas...
+ 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fransilva0&layout=compact&langs_count=7&theme=dracula"/>
+ 
+ ## Onde você pode me Encontrar...
 
 <a href="https://www.linkedin.com/in/francileudo-oliveira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="my linkedin"></a>
