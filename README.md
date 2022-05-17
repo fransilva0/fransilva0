@@ -1,9 +1,7 @@
 # Prazer, Francileudo! 👋
 
 <p align="justify">
-  Quando mais jovem, via a internet como algo mágico, o que me motivou a tentar entender o que havia do outro lado, daí surgiu o interesse pela área de tecnologia. Sou     estudante do curso de Bacharelado em Ciência da Computação pela Universidade Estadual da Paraíba, onde além de conhecer mais sobre o mundo computacional, também tenho   um bom local para treino de minhas soft skills, como organização e trabalho em equipe. Gosto muito de desafios e de buscar conhecimento, e vejo nesta área a      
-  possibilidade de mudar o mundo ao meu redor, seja com a construção de uma Landing Page ou de um e-commerce complexo.
-</p>
+  Quando mais jovem, via a internet como algo mágico, o que me motivou a tentar entender o que havia do outro lado, daí surgiu o interesse pela área de tecnologia. Sou     estudante do curso de Bacharelado em Ciência da Computação pela Universidade Estadual da Paraíba, onde além de conhecer mais sobre o mundo computacional, também tenho   um bom local para treino de minhas soft skills, como organização e trabalho em equipe. Gosto muito de desafios e de buscar conhecimento.
   
 ## Linguagens que estou em constante desenvolvimento...
 
