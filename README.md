@@ -1,10 +1,5 @@
 # Prazer, Francileudo! 👋
 
-<p align="justify">
-  Quando mais jovem, via a internet como algo mágico, o que me motivou a tentar entender o que havia do outro lado, daí surgiu o interesse pela área de tecnologia. Sou     estudante do curso de Bacharelado em Ciência da Computação pela Universidade Estadual da Paraíba, onde além de conhecer mais sobre o mundo computacional, também tenho   um bom local para treino de minhas soft skills, como organização e trabalho em equipe. Gosto muito de desafios e de buscar conhecimento.
-  
-<br>
-
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
