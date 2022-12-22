@@ -1,5 +1,41 @@
 <h1 align='center'> Prazer, Francileudo! 👋 </h1>
 
+<details>
+  <summary>📃 Resumo</summary>
+ 
+ ## Sobre mim
+ 
+ <p>
+ Atualmente sou estudante de graduação em Ciência da Computação pela Universidade Estadual da Paraíba, onde aproveito para desenvolver minhas soft skills, como trabalho em equipe, por exemplo. Estudo sobre desenvolvimento web, com foco atual em Frontend, onde estou aprendendo ReactJs e aprofundando conhecimentos em JavaScript, HTML e CSS. Tenho trabalhado de forma voluntária como desenvolvedor Frontend no Projeto Sebastianas.
+ </p>
+
+- Hard Skills: HTML, CSS, JavaScript, Git, Github, ReactJs
+- Soft Skills: Estudo Contínuo, Colaboração, Capacidade de Organização
+ 
+ ## Experiência
+ 
+- Desenvolvedor Frontend no Projeto Sebastianas | Agosto 2022 - o momento
+
+ <p>Responsável por atuar junto com as demais equipes do projeto no desenvolvimento de um site funcional, utilizando tecnologias como o NextJs, Chakra Ui, TypeScript, entre outros. construção do site contribui para uma melhor visibilidade do projeto tanto para os envolvidos quanto para potenciais parceiros.
+ </p>
+ 
+ - Instrutor de Programação voluntário, Python | set de 2022 - o momento
+ 
+ <p>Atuando, juntamente com os demais professores da matéria, no ensino de programação em python, por meio de elaboração de conteúdos e ministração de aulas semanais. </p>
+ 
+ <br />
+ 
+ <div align='center'>
+
+<a href="https://www.linkedin.com/in/francileudo-oliveira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="my linkedin"></a>
+<a href="mailto:sfrancileudo1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="My E-mail"></a>
+<a href="https://programacao-descomplicada.blogspot.com/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="my Blogger"></a>
+<a href="https://www.instagram.com/francileudo.frontend/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="My Instagram"></a>
+
+</div>
+
+</details>
+
 <h2> Skills que conheço... </h2>
 
 <div>
@@ -41,16 +77,5 @@
 
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fransilva0&layout=compact&langs_count=7&theme=dracula"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fransilva0&layout=compact&langs_count=7&theme=dracula"/>
-
-</div>
- 
- <br>
- 
-<div align='center'>
-
-<a href="https://www.linkedin.com/in/francileudo-oliveira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="my linkedin"></a>
-<a href="mailto:sfrancileudo1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="My E-mail"></a>
-<a href="https://programacao-descomplicada.blogspot.com/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="my Blogger"></a>
-<a href="https://www.instagram.com/francileudo.frontend/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="My Instagram"></a>
 
 </div>
