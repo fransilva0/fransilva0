@@ -10,16 +10,27 @@
  </p>
 
 - Hard Skills: HTML, CSS, JavaScript, Git, Github, ReactJs
+  
 - Soft Skills: Estudo Contínuo, Colaboração, Capacidade de Organização
+  
+ ## Educação
+ 
+ - Programa ONE, turma 3 | Julho 2022 - o momento 
+  
+  <p>Participando da turma 3 do Programa ONE da Oracle em parceria com a Alura, no qual desenvolvi o HTMl, CSS, JavaScript e começei a conhecer o Java, SQL e MySQL durante os meses do programa.</p>
+  
+ - Universidade Estadual da Paraíba | Julho 2021 - o momento
+  
+  <p>Cursando Bacharelado em Ciência da Computação pela Universidade Estadual da Paraíba</p>
  
  ## Experiência
  
-- Desenvolvedor Frontend no Projeto Sebastianas | Agosto 2022 - o momento
+- Desenvolvedor Frontend no Projeto Sebastianas | Agosto 2022 - Dezembro 2022
 
  <p>Responsável por atuar junto com as demais equipes do projeto no desenvolvimento de um site funcional, utilizando tecnologias como o NextJs, Chakra Ui, TypeScript, entre outros. construção do site contribui para uma melhor visibilidade do projeto tanto para os envolvidos quanto para potenciais parceiros.
  </p>
  
- - Instrutor de Programação voluntário, Python | set de 2022 - o momento
+ - Instrutor de Programação voluntário, Python | Setembro de 2022 - o momento
  
  <p>Atuando, juntamente com os demais professores da matéria, no ensino de programação em python, por meio de elaboração de conteúdos e ministração de aulas semanais. </p>
  
