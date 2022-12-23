@@ -12,6 +12,10 @@
 - Hard Skills: HTML, CSS, JavaScript, Git, Github, ReactJs
   
 - Soft Skills: Estudo Contínuo, Colaboração, Capacidade de Organização
+</details>
+
+<details>
+  <summary>📃 Educação</summary>
   
  ## Educação
  
@@ -22,6 +26,11 @@
  - Universidade Estadual da Paraíba | Julho 2021 - o momento
   
   <p>Cursando Bacharelado em Ciência da Computação pela Universidade Estadual da Paraíba</p>
+  
+</details>
+
+<details>
+  <summary>📃 Experiência</summary>
  
  ## Experiência
  
