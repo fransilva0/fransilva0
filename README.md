@@ -6,7 +6,7 @@
  ## Sobre mim
  
  <p>
- Atualmente sou estudante de graduação em Ciência da Computação pela Universidade Estadual da Paraíba, onde aproveito para desenvolver minhas soft skills, como trabalho em equipe, por exemplo. Estudo sobre desenvolvimento web, com foco atual em Frontend, onde estou aprendendo ReactJs e aprofundando conhecimentos em JavaScript, HTML e CSS. Tenho trabalhado de forma voluntária como desenvolvedor Frontend no Projeto Sebastianas.
+ Atualmente sou estudante de graduação em Ciência da Computação pela Universidade Estadual da Paraíba, onde aproveito para desenvolver minhas soft skills, como trabalho em equipe, por exemplo. Estudo sobre desenvolvimento web, com foco atual em Frontend, onde estou aprendendo ReactJs e aprofundando conhecimentos em JavaScript, HTML e CSS. Trabalhei de forma voluntária como desenvolvedor Frontend no Projeto Sebastianas.
  </p>
 
 - Hard Skills: HTML, CSS, JavaScript, Git, Github, ReactJs
@@ -19,9 +19,9 @@
   
  ## Educação
  
- - Programa ONE, turma 3 | Julho 2022 - o momento 
+ - Programa ONE, turma 3 | Julho 2022 - Janeiro 2023
   
-  <p>Participando da turma 3 do Programa ONE da Oracle em parceria com a Alura, no qual desenvolvi o HTMl, CSS, JavaScript e começei a conhecer o Java, SQL e MySQL durante os meses do programa.</p>
+  <p>Participante da turma 3 do Programa ONE da Oracle em parceria com a Alura, no qual desenvolvi o HTMl, CSS, JavaScript e começei a conhecer o Java, SQL e MySQL durante os meses do programa.</p>
   
  - Universidade Estadual da Paraíba | Julho 2021 - o momento
   
@@ -39,9 +39,9 @@
  <p>Responsável por atuar junto com as demais equipes do projeto no desenvolvimento de um site funcional, utilizando tecnologias como o NextJs, Chakra Ui, TypeScript, entre outros. construção do site contribui para uma melhor visibilidade do projeto tanto para os envolvidos quanto para potenciais parceiros.
  </p>
  
- - Instrutor de Programação voluntário, Python | Setembro de 2022 - o momento
+ - Instrutor de Programação voluntário, Python | Setembro de 2022 - Dezembro 2022
  
- <p>Atuando, juntamente com os demais professores da matéria, no ensino de programação em python, por meio de elaboração de conteúdos e ministração de aulas semanais. </p>
+ <p>Atuei, juntamente com os demais professores da matéria, no ensino de programação em python, por meio de elaboração de conteúdos e ministração de aulas semanais. </p>
  
  <br />
  
