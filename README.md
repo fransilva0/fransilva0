@@ -9,7 +9,7 @@
  Atualmente sou estudante de graduação em Ciência da Computação pela Universidade Estadual da Paraíba, onde aproveito para desenvolver minhas soft skills, como trabalho em equipe, por exemplo. Estudo sobre desenvolvimento web, com foco atual em Frontend, onde estou aprendendo ReactJs e aprofundando conhecimentos em JavaScript, HTML e CSS. Trabalhei de forma voluntária como desenvolvedor Frontend no Projeto Sebastianas.
  </p>
 
-- Hard Skills: HTML, CSS, JavaScript, Git, Github, ReactJs
+- Hard Skills: HTML, CSS, JavaScript, Git, Github, ReactJs, python
   
 - Soft Skills: Estudo Contínuo, Colaboração, Capacidade de Organização
 </details>
@@ -49,7 +49,6 @@
 
 <a href="https://www.linkedin.com/in/francileudo-oliveira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="my linkedin"></a>
 <a href="mailto:sfrancileudo1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="My E-mail"></a>
-<a href="https://programacao-descomplicada.blogspot.com/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="my Blogger"></a>
 <a href="https://www.instagram.com/francileudosoliveira/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="My Instagram"></a>
 
 </div>
@@ -64,7 +63,7 @@
  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
  ![ReactJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
- ![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+ 
 
 </div>
 
@@ -72,7 +71,8 @@
 
 <div>
  
- ![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+ ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+ ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 </div>
 
@@ -87,6 +87,8 @@
  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
  ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+ ![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+ ![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
  ![StoryBook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)</div>
  ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)</div>
  
