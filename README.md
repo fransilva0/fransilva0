@@ -6,12 +6,12 @@
  ## Sobre mim
  
  <p>
- Atualmente sou estudante de graduação em Ciência da Computação pela Universidade Estadual da Paraíba, onde aproveito para desenvolver minhas soft skills, como trabalho em equipe, por exemplo. Estudo sobre desenvolvimento web, com foco atual em Frontend, onde estou aprendendo ReactJs e aprofundando conhecimentos em JavaScript, HTML e CSS. Trabalhei de forma voluntária como desenvolvedor Frontend no Projeto Sebastianas.
+ Atualmente sou estudante de graduação em Ciência da Computação pela Universidade Estadual da Paraíba, onde aproveito para desenvolver minhas soft skills, como trabalho em equipe, por exemplo. No momento, aprofundando conhecimentos em JavaScript, NextJS, Python, HTML e CSS.
  </p>
 
-- Hard Skills: HTML, CSS, JavaScript, Git, Github, ReactJs, python
-  
-- Soft Skills: Estudo Contínuo, Colaboração, Capacidade de Organização
+Hard Skills: HTML, CSS, JavaScript, Git, Github, NextJs, Python
+
+Soft Skills: Estudo Contínuo, Colaboração, Capacidade de Organização
 </details>
 
 <details>
