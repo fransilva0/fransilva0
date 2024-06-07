@@ -71,19 +71,19 @@ Soft Skills: Estudo Contínuo, Colaboração, Capacidade de Organização
 
 </div>
 
+<!--
+
 <h2> Skills que estou desenvolvendo... </h2>
 
 <div>
  
- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
-</div>
+</div> -->
 
 <h2> Skills que tenho interesse em desenvolver... </h2>
 
 <div>
 
+ ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
  ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
