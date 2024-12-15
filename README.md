@@ -6,12 +6,12 @@
  ## Sobre mim
  
  <p>
- Atualmente sou estudante de graduação em Ciência da Computação pela Universidade Estadual da Paraíba, onde aproveito para desenvolver minhas soft skills, como trabalho em equipe, por exemplo. No momento, aprofundando conhecimentos em JavaScript, NextJS, Python, HTML e CSS.
+Sou bacharel em Ciência da Computação pela Universidade Estadual da Paraíba (UEPB). Tenho conhecimentos em HTML, CSS, JavaScript, ReactJs, Python, PostgreSQL entre outros. Já atuei como desenvolvedor python no Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) onde contribui no desenvolvimento de aplicações blockchain para atribuição de identificadores persistentes ARK.
  </p>
 
 Hard Skills: HTML, CSS, JavaScript, Git, Github, NextJs, Python
 
-Soft Skills: Estudo Contínuo, Colaboração, Capacidade de Organização
+Soft Skills: colaboração, capacidade de organização
 </details>
 
 <details>
