@@ -6,7 +6,7 @@
  ## Sobre mim
  
  <p>
-Sou bacharel em Ciência da Computação pela Universidade Estadual da Paraíba (UEPB). Tenho conhecimentos em HTML, CSS, JavaScript, ReactJs, Python, PostgreSQL entre outros. Já atuei como desenvolvedor python no Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) onde contribui no desenvolvimento de aplicações blockchain para atribuição de identificadores persistentes ARK.
+Sou bacharel em Ciência da Computação pela Universidade Estadual da Paraíba (UEPB). Tenho conhecimentos em HTML, CSS, JavaScript, ReactJs, Python, PostgreSQL entre outros. Já atuei como desenvolvedor python no Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) onde contribui no desenvolvimento de uma aplicação blockchain para atribuição de identificadores persistentes ARK.
  </p>
 
 Hard Skills: HTML, CSS, JavaScript, Git, Github, NextJs, Python
