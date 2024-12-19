@@ -23,9 +23,9 @@ Soft Skills: colaboração, capacidade de organização
   
   <p>Participante da turma 3 do Programa ONE da Oracle em parceria com a Alura, no qual desenvolvi o HTMl, CSS, JavaScript e começei a conhecer o Java, SQL e MySQL durante os meses do programa.</p>
   
- - Universidade Estadual da Paraíba | Julho 2021 - o momento
+ - Universidade Estadual da Paraíba | Julho 2021 - Dezembro 2024
   
-  <p>Cursando Bacharelado em Ciência da Computação pela Universidade Estadual da Paraíba</p>
+  <p>Curso com foco tanto na teoria quanto na prática com relação à computação. Desde fundamentos da programação, como estrutura de dados e paradigmas, até o desenvolvimento de pesquisas na área.</p>
   
 </details>
 
@@ -33,11 +33,14 @@ Soft Skills: colaboração, capacidade de organização
   <summary>📃 Experiência</summary>
  
  ## Experiência
+
+- Desenvolvedor Python no Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) | 2023 - 2024
+
+<p>Atuei como desenvolvedor python no projeto dARK: Aplicação blockchain para atribuição de identificadores persistentes ARK. Tive contato com tecnologias como Python, Flask, JWT,  PostgreSQL.</p>
  
 - Desenvolvedor Frontend no Projeto Sebastianas | Agosto 2022 - Dezembro 2022
 
- <p>Responsável por atuar junto com as demais equipes do projeto no desenvolvimento de um site funcional, utilizando tecnologias como o NextJs, Chakra Ui, TypeScript, entre outros. construção do site contribui para uma melhor visibilidade do projeto tanto para os envolvidos quanto para potenciais parceiros.
- </p>
+ <p>Responsável por atuar junto com as demais equipes do projeto no desenvolvimento de um site funcional, utilizando tecnologias como o NextJs, Chakra Ui, TypeScript, entre outros.</p>
  
  - Instrutor de Programação voluntário, Python | Setembro de 2022 - Dezembro 2022
  
@@ -49,7 +52,6 @@ Soft Skills: colaboração, capacidade de organização
 
 <a href="https://www.linkedin.com/in/francileudo-oliveira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="my linkedin"></a>
 <a href="mailto:sfrancileudo1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="My E-mail"></a>
-<a href="https://www.instagram.com/francileudosoliveira/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="My Instagram"></a>
 
 </div>
 
