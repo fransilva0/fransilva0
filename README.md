@@ -6,10 +6,10 @@
  ## Sobre mim
  
  <p>
-Sou bacharel em Ciência da Computação pela Universidade Estadual da Paraíba (UEPB). Tenho conhecimentos em HTML, CSS, JavaScript, ReactJs, Python, PostgreSQL entre outros. Já atuei como desenvolvedor python no Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) onde contribui no desenvolvimento de uma aplicação blockchain para atribuição de identificadores persistentes ARK.
+Sou bacharel em Ciência da Computação pela Universidade Estadual da Paraíba (UEPB). Tenho conhecimentos em HTML, CSS, JavaScript, ReactJs, Python, PostgreSQL entre outros. Já atuei como desenvolvedor python no Instituto Brasileiro de Informação em Ciência e Tecnologia (Ibict) onde contribui no desenvolvimento de uma aplicação blockchain para atribuição de identificadores persistentes ARK. Atualmente trabalho como professor substituto na UEPB
  </p>
 
-Hard Skills: HTML, CSS, JavaScript, Git, Github, NextJs, Python
+Hard Skills: HTML, CSS, JavaScript, Git, Github, NextJs, Python, PostgreSQL
 
 Soft Skills: colaboração, capacidade de organização
 </details>
@@ -69,6 +69,8 @@ Soft Skills: colaboração, capacidade de organização
  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
  ![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
  ![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+ ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+ ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
  
 
 </div>
@@ -85,8 +87,7 @@ Soft Skills: colaboração, capacidade de organização
 
 <div>
 
- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+ 
  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
  ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
  ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
